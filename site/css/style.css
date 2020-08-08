@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+}
+body{
+	background-color: #5B5550;
+}
+#principal {
+	background-color: #5B5550;
+	width: 1000px;
+	margin: 0px auto;
+
+}
+
+#conteudo {
+	width: 800px;
+}
+.logo{
+	float: left;
+}
+
+.menu{
+	float: right;
+	margin-right: 100px;
+	margin-top: 25px;
+}
+.menu ul{
+		list-style: none;
+		margin: 3px;
+		text-align: center;
+
+}
+.menu li{
+	display: inline;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.menu1{
+	border-right: 1px solid #000;
+}
+.banner{
+	width: 1000px;
+	margin-top: 20px;
+	/*height: 450px;*/
+}
+
+.destaques{
+	width: 1000px;
+	display: inline;
+	padding: 20px;
+	margin-top: 20px!important;
+	margin-right: 10px;
+}
+
+.destaques img{
+	width: 300px;
+	height: 250px;
+	border: 1px solid #fff;
+}
+.img1{
+	margin-right: 100px;
+}
+footer{
+	width: 1000px;
+	background-color: #fff;
+}
+.pagamentos{}
+.endereco{
+	text-align: right;
+	padding: 20px;
+}  
+
